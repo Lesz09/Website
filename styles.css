@@ -1,12 +1,16 @@
 header {
-background-color:red;
-padding:20px;
+background-image:conic-gradient(at 50% 0%,#EAEFEF,#BFC9D1,#F9F8F6,#EFE9E3,#D9CFC7);
+border-radius:20px;
+padding:12%;
 }
 
 nav {
 background-color:green;
 padding:10px;
-border-radius:10px;
+border-radius:20px;
+background-image:conic-gradient(at 10% 0%,#F5F5F0,#E6D8C3,#C2A68C);
+transform: translate(0%,-130px);
+opacity:65%;
 }
 
 a {
@@ -14,9 +18,7 @@ font-family:Lucida Console;
 text-decoration:none;
 cursor:pointer;
 color:black;
-background-color:blue;
-border-radius:4px;
-} 
+}
 
 h1 {
 text-align:center;
