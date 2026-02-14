@@ -3,10 +3,19 @@ background-color:red;
 padding:20px;
 }
 
+nav {
+background-color:green;
+padding:10px;
+border-radius:10px;
+}
+
 a {
 font-family:Lucida Console;
 text-decoration:none;
 cursor:pointer;
+color:black;
+background-color:blue;
+border-radius:4px;
 } 
 
 h1 {
