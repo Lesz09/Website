@@ -1,3 +1,6 @@
 function showList() {
-window.alert();
+    const element = document.getElementById("list");
+    if (3==3) {
+        window.alert();
+    }
 }
